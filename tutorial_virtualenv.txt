@@ -4,3 +4,18 @@ Virtualenv é uma ferramenta desenvolvida pela comunidade Python que permite iso
 programadores utilizar versões específicas de diversos pacotes sem afetar outras instalações. Com o virtualenv, é criada uma "instalação do Python" 
 completa, incluindo o executável do Python, pip e setup-tools, permitindo a gestão de ambientes virtuais de forma eficiente
 
+Como configurar o virtualenv
+
+Instalação do Virtualenv:
+Verifique se o Virtualenv está instalado digitando where virtualenv no prompt de comando. Caso não esteja instalado, use o comando pip install 
+virtualenv para instalá-lo.
+Criação de um Ambiente Virtual:
+Escolha o diretório onde deseja criar o ambiente virtual e navegue até ele no prompt de comando.
+Execute o comando virtualenv . para criar o ambiente virtual. Certifique-se de incluir um espaço e um ponto após o comando virtualenv.
+Ativação do Ambiente Virtual:
+Para ativar o ambiente virtual no Windows, utilize o arquivo activate.bat se estiver no prompt de comando ou activate.ps1 se estiver no 
+PowerShell. Execute o arquivo de ativação correspondente ao seu ambiente.
+No Linux, o comando para ativar o ambiente virtual é . bin/activate.
+Utilização do Ambiente Virtual:
+Após ativar o ambiente virtual, todas as instalações e execuções de pacotes Python serão isoladas nesse ambiente, garantindo que não 
+interfiram com outras instalações.
