@@ -4,18 +4,22 @@ Python é uma linguagem de programação de alto nível, interpretada, versátil
 É utilizada em diversas áreas como desenvolvimento web, análise de dados e inteligência artificial, suportando múltiplos paradigmas 
 de programação e oferecendo uma ampla biblioteca padrão.
 
-Passo a passo de como fazer o download de python
+Passo a passo de como fazer o download de python:
 
-Acesse o Site Oficial do Python:
-Visite o site oficial do Python.
-Faça o download da versão mais recente do Python 3.x para o seu sistema operacional (Windows, macOS ou Linux).
-O site detectará automaticamente o seu sistema operacional e oferecerá o instalador apropriado (32 bits ou 64 bits).
-Execute o Instalador:
-Localize o arquivo do instalador baixado (geralmente na pasta de Downloads) e clique duas vezes nele para iniciar o processo de instalação.
-Você pode ser solicitado pelo Controle de Conta de Usuário (UAC) para permitir a instalação. Clique em "Sim" para prosseguir.
-Personalize e Instale o Python:
-Durante a instalação, você terá a opção de personalizar as configurações.
-Escolha entre as opções disponíveis, como instalar a documentação, o pip (gerenciador de pacotes do Python), tkinter e IDLE, entre outros.
-Verifique o diretório de instalação e prossiga com a instalação.
-Após a conclusão da instalação, você terá o Python devidamente instalado em seu sistema.
+Acesse o site oficial do Python (python.org).
+Localize a seção "Download" e selecione a versão mais recente do Python 3.x para o seu sistema operacional (Windows, macOS ou Linux).
+Clique no link de download apropriado para o seu sistema (instalador de 32 bits ou 64 bits) e aguarde o download ser concluído.
+
+Passo a passo de instalação de python:
+
+Localize o arquivo de instalador baixado (geralmente na pasta Downloads) e clique duas vezes para executá-lo.
+Na tela de boas-vindas do instalador, você verá duas opções: "Instalar Agora" e "Personalizar instalação".
+Se quiser usar as configurações padrão, clique em "Instalar Agora". Se quiser personalizar a instalação (alterar o diretório de instalação ou 
+selecionar componentes específicos), clique em "Personalizar instalação". 
+
+Siga as instruções na tela para concluir a instalação.
+Passo 3: Verificar a instalação
+Abra o prompt de comando (cmd) ou o PowerShell do Windows.
+Digite o comando python --version e pressione Enter.
+Você deve ver a versão do Python instalada, por exemplo: "Python 3.10.10". 
 
