@@ -4,3 +4,18 @@ Python é uma linguagem de programação de alto nível, interpretada, versátil
 É utilizada em diversas áreas como desenvolvimento web, análise de dados e inteligência artificial, suportando múltiplos paradigmas 
 de programação e oferecendo uma ampla biblioteca padrão.
 
+Passo a passo de como fazer o download de python
+
+Acesse o Site Oficial do Python:
+Visite o site oficial do Python.
+Faça o download da versão mais recente do Python 3.x para o seu sistema operacional (Windows, macOS ou Linux).
+O site detectará automaticamente o seu sistema operacional e oferecerá o instalador apropriado (32 bits ou 64 bits).
+Execute o Instalador:
+Localize o arquivo do instalador baixado (geralmente na pasta de Downloads) e clique duas vezes nele para iniciar o processo de instalação.
+Você pode ser solicitado pelo Controle de Conta de Usuário (UAC) para permitir a instalação. Clique em "Sim" para prosseguir.
+Personalize e Instale o Python:
+Durante a instalação, você terá a opção de personalizar as configurações.
+Escolha entre as opções disponíveis, como instalar a documentação, o pip (gerenciador de pacotes do Python), tkinter e IDLE, entre outros.
+Verifique o diretório de instalação e prossiga com a instalação.
+Após a conclusão da instalação, você terá o Python devidamente instalado em seu sistema.
+
