@@ -19,3 +19,8 @@ No Linux, o comando para ativar o ambiente virtual é . bin/activate.
 Utilização do Ambiente Virtual:
 Após ativar o ambiente virtual, todas as instalações e execuções de pacotes Python serão isoladas nesse ambiente, garantindo que não 
 interfiram com outras instalações.
+
+Como instalar o flask
+
+Para instalar o flask, voçê tem que abrir o terminal bash e dar o comando: 
+pip install flask
