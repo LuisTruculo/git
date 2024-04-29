@@ -1,1 +1,6 @@
 Iniciando tutorial python
+
+Python é uma linguagem de programação de alto nível, interpretada, versátil e popular, conhecida por sua sintaxe clara e legível.  
+É utilizada em diversas áreas como desenvolvimento web, análise de dados e inteligência artificial, suportando múltiplos paradigmas 
+de programação e oferecendo uma ampla biblioteca padrão.
+
